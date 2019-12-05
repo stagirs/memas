@@ -1,0 +1,4 @@
+node_modules/
+/build-dev/client/index.html
+/nbproject/
+/package-lock.json
